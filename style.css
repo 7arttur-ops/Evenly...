@@ -1681,43 +1681,13 @@ button:hover {
 .container * {
   -webkit-animation-play-state: paused !important;
   animation-play-state: paused !important;
-} .flower--4 {
-  left: 20%;
-  transform: rotate(10deg);
 }
 
-.flower--5 {
-  left: 80%;
-  transform: rotate(-10deg);
-}
+/* FLORES */
 .flower--4 {
-  left: 20%;
-  transform: rotate(10deg);
-  animation: moving-flower-2 4s linear infinite;
+  left: 15%;
 }
 
 .flower--5 {
-  left: 80%;
-  transform: rotate(-10deg);
-  animation: moving-flower-3 4s linear infinite;
+  left: 85%;
 }
-.flower--4 {
-  left: 20%;
-  transform: rotate(10deg);
-  animation: moving-flower-2 4s linear infinite;
-}
-
-.flower--5 {
-  left: 80%;
-  transform: rotate(-10deg);
-  animation: moving-flower-3 4s linear infinite;
-}
-.flower--4 {
-  left: 30%;
-}
-
-.flower--5 {
-  left: 70%;
-}
-.flower--4 { left: 25%; }
-.flower--5 { left: 75%; }
