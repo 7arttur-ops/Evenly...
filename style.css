@@ -1681,4 +1681,12 @@ button:hover {
 .container * {
   -webkit-animation-play-state: paused !important;
   animation-play-state: paused !important;
-} 
+} .flower--4 {
+  left: 20%;
+  transform: rotate(10deg);
+}
+
+.flower--5 {
+  left: 80%;
+  transform: rotate(-10deg);
+}
